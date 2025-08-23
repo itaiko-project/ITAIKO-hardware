@@ -1,14 +1,14 @@
 # **Say hi to ITAIKO, the Italian Taiko! (WIP)**
 ### Build your own Taiko Arcade Drum, or convert an arcade drum to play at home!
 <p align="left">
-    <img src="https://github.com/danstronics/ITAIKO/ITAIKO.jpg" alt="Description" width="500">
+    <img src="https://github.com/danstronics/ITAIKO/blob/master/ITAIKO.jpg" alt="Description" width="500">
 </p>
 
 
 
 ### **With the onigiri-con, you can use the drum on PS4, PS3, Switch, PC and Xbox 360!**
 <p align="left">
-    <img src="https://github.com/danstronics/ITAIKO/onigiricon.jpg" alt="Description" width="500">
+    <img src="https://github.com/danstronics/ITAIKO/blob/master/onigiricon.jpg" alt="Description" width="500">
 </p>
 
 It is a small box that connects to the drum sensors via an 8 pin JTAG connector.\
@@ -26,4 +26,5 @@ The full code is based on [ravinrabbid's DonCon2040](https://github.com/ravinrab
 **Without you, this wouldn't be possible! Thank you SO MUCH!**
 # **Licence:**
 ITAIKO by danstronics is licensed under the Apache License, Version 2.0. \
+
 HIDtaiko by kasashiki is licensed under the Apache License, Version 2.0.
