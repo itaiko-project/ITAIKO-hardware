@@ -25,6 +25,7 @@ The full code is based on [ravinrabbid's DonCon2040](https://github.com/ravinrab
 💙 **[ravinrabbid for DonCon2040](https://github.com/ravinrabbid/DonCon2040)** \
 **Without you, this wouldn't be possible! Thank you SO MUCH!**
 # **Licence:**
-ITAIKO by danstronics is licensed under the Apache License, Version 2.0. \
+ITAIKO by danstronics is licensed under the Apache License, Version 2.0. 
 
 HIDtaiko by kasashiki is licensed under the Apache License, Version 2.0.
+
