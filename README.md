@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/danstronics/ITAIKO/blob/master/banner.jpg" alt="ITAIKO Banner" width="500">
+    <img src="https://github.com/danstronics/ITAIKO/blob/master/banner.jpg" alt="ITAIKO Banner">
 </p>
 
 **ITAIKO** is an open-source, DIY drum controller for *Taiko no Tatsujin* and its simulators. 
